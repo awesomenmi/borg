@@ -1,0 +1,18 @@
+0 B O 0 B C 0 B D 0 N etc                                                       Initializing cache transaction: Reading configInitializing cache transaction: Reading chunksInitializing cache transaction: Reading files23.07 MB O 11.26 MB C 0 B D 1342 N etc/selinux/targete...modules/100/quantum/cilRemote: Compacting segments   0%Remote: Compacting segments  50%Saving files cacheSaving chunks cacheSaving cache config                                                                                ------------------------------------------------------------------------------
+Archive name: etc-2020-06-03_12:34:48
+Archive fingerprint: 26d4cb19c90477d6145eb9eac001377b9bd62a3a66a61e2675b2f3a33081f1dc
+Time (start): Wed, 2020-06-03 12:34:49
+Time (end):   Wed, 2020-06-03 12:34:49
+Duration: 0.27 seconds
+Number of files: 1720
+Utilization of max. archive size: 0%
+------------------------------------------------------------------------------
+                       Original size      Compressed size    Deduplicated size
+This archive:               32.30 MB             14.94 MB                620 B
+All archives:               64.60 MB             29.88 MB             11.80 MB
+
+                       Unique chunks         Total chunks
+Chunk index:                    1296                 3438
+------------------------------------------------------------------------------
+Keeping archive: etc-2020-06-03_12:34:48              Wed, 2020-06-03 12:34:49 [26d4cb19c90477d6145eb9eac001377b9bd62a3a66a61e2675b2f3a33081f1dc]
+Pruning archive: etc-2020-06-03_12:23:46              Wed, 2020-06-03 12:23:47 [a3d7afa9c1c0515f1a212f8170147f4e61d52db82ec6497275e89f10d712f915] (1/1)
